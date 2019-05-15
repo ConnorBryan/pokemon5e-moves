@@ -9,7 +9,7 @@ const colorMap = {
   Fire: "orangered",
   Fighting: "brown",
   Water: "dodgerblue",
-  Flying: "purple",
+  Flying: "mediumpurple",
   Grass: "green",
   Poison: "darkpurple",
   Electric: "yellow",
